@@ -1,4 +1,4 @@
 # Code
-my first try of learing 
+my first try of learing DS.
 希望
 
